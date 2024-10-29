@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/c4ffa27f-b51e-4f77-a95b-12258f55d0e2)
+![banner](./images/banner.jpg)
 - 👋 Buenas, soy @Angelroloz
 - 👀 Me gusta los videojuegos, la física, y la tecnología en general
 - 🌱 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma en el IES Castelar
